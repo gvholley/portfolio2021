@@ -4,7 +4,10 @@
   display: flex;
   align-items: center;
   border-bottom: 0px;
-  background: $white-color;
+  background-color: #ffffff;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23ff3bd1' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23b2449e' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23ff4bd9' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%23b549a0' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23ff59e0' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23b74da2' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23ff65e7' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23ba51a3' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23ff70ee' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%23bc56a5' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23ff7bf4' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23bf5aa7' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
   font-weight: 400;
   color: $dark-blue-text;
   padding: 0rem 5.6rem;
